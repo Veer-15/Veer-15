@@ -10,7 +10,7 @@
 
 ## 🧭 What I'm Doing
 
-- 📚 Mastering **Java DSA** — following Striver's A2Z sheet  
+- 📚 Mastering **Java DSA**  
 - 🐍 Building strong **Python** fundamentals for AI/ML  
 
 ---
